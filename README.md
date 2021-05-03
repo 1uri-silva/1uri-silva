@@ -8,7 +8,7 @@
 
  💡Languages of programming: Python, JavaScript (TypeScript)
 
-- 👨💻 I' am student in my house. Level junior, with 4 months of studies online(videos, tutorials, documentation).
+- 💻 I' am student in my house. Level junior, with 4 months of studies online(videos, tutorials, documentation).
 - 🗣 My speak portuguese Brazilian with english level down but i'm studying.
 
 - [Instagram](https://www.instagram.com/iurir_rds/)
