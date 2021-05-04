@@ -13,3 +13,4 @@
 
 - [Instagram](https://www.instagram.com/iurir_rds/)
 - [Facebook](https://www.facebook.com/iuri.rd.92)
+- [Linkedin](https://www.linkedin.com/in/iuri-silva-ab2296211)
