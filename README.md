@@ -4,7 +4,7 @@
 
 - 📱Mobile applications for Android and iOS with React Native
 - 🖥Web applications, React, HTML, CSS
-- 🎲Database: Postgres, Mongo, MySQ
+- 🎲Database: Postgres, Mongo
 - 📡 API with NodeJs and AdonisJs
 - 🛠Git and GitHub
 
