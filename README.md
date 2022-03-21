@@ -5,7 +5,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como **desenvolvedor** na <a href="https://bkpi.io">BKPi</a>
+- 💼 &nbsp; Trabalhando como **Desenvolvedor React / React Native** na <a href="https://bkpi.io">BKPi</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -45,4 +45,4 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Iuri Rodrigues](https://img.shields.io/badge/-Iuri%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuri-rodrigues-606009231)](https://www.linkedin.com/in/iuri-rodrigues-606009231)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/rd-easy?label=follow&style=social)](https://github.com/rd-easy)
+[![GitHub: Iuri Rodrigues]( https://img.shields.io/github/followers/rd-easy?label=follow&style=social)](https://github.com/rd-easy)
