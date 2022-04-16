@@ -5,7 +5,6 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor React / React Native** na <a href="https://bkpi.io">BKPi</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
