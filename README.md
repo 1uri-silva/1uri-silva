@@ -1,6 +1,6 @@
 # Hello there, Welcome!!!
 
-![](https://komarev.com/ghpvc/?username=rd-easy&color=006bed)
+![](https://komarev.com/ghpvc/?username=1uri-silva&color=006bed)
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
@@ -35,8 +35,8 @@
 
 <br/>
 
-<a href="https://github.com/rd-easy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rd-easy&theme=dracula&show_icons=true" />
+<a href="https://github.com/1uri-silva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1uri-silva&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
@@ -44,4 +44,4 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Iuri Rodrigues](https://img.shields.io/badge/-Iuri%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuri-rodrigues-606009231)](https://www.linkedin.com/in/iuri-rodrigues-606009231)
-[![GitHub: Iuri Rodrigues]( https://img.shields.io/github/followers/rd-easy?label=follow&style=social)](https://github.com/rd-easy)
+[![GitHub: Iuri Rodrigues]( https://img.shields.io/github/followers/1uri-silva?label=follow&style=social)](https://github.com/1uri-silva)
