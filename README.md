@@ -44,8 +44,4 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Iuri Rodrigues](https://img.shields.io/badge/-Iuri%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuri-rodrigues-606009231)](https://www.linkedin.com/in/iuri-rodrigues-606009231)
-[![GitHub: Iuri Rodrigues]( https://img.shields.io/github/followers/1uri-silva?label=follow&style=social)](https://github.com/1uri-silva)
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="iuri-rodrigues" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/iuri-rodrigues?trk=profile-badge">Iuri Rodrigues</a></div>
-              
+[![GitHub: Iuri Rodrigues]( https://img.shields.io/github/followers/1uri-silva?label=follow&style=social)](https://github.com/1uri-silva)           
